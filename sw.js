@@ -8,7 +8,7 @@ const ASSETS_TO_CACHE = [
     './script.js',
     './loader.css',
     './loader.js',
-    './waiting.webp',
+    './love.jpg',
     './yes.webp'
 ];
 
