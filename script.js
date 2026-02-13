@@ -1,19 +1,17 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Pookie please...",
-    "Don't do this to me :(",
-    "I will buy you sweet treats! 🍫",
-    "I'll give you my hoodie!",
-    "I'll even let you win in games!",
-    "If you say no, I'm gonna be cooked...",
-    "I'll just stare at the ceiling...",
-    "I will be very very sad...",
-    "I'm literally crying rn...",
-    "My heart is breaking... 💔",
-    "Pretty please with a cherry on top? 🍒",
-    "Ok fine, I will stop asking...",
-    "Just kidding, SAY YES POOKIE! ❤️"
+    "Tu es sûr ?",
+    "Vraiment sûr??",
+    "Hbiba s'il te plaît...",
+    "Ne me fait pas ça :(",
+    "Je t'acheterai une coupe spéculos à 13 euros! 🍫",
+    "stp stp stp stp stp stp stp!",
+    "Je te laisserai même gagner à la bagarre !",
+    "Si tu dis non, je deviens un 3atay...",
+    "et le 7lib4ever dans tout ça...",
+    "T'as pas envie de me connaître ???",
+    "Tu abandonnes Lou... 💔",
+    "Ok, j'insite pas plus...",
+    "Je rigoles, DIS OUI HMARA! ❤️"
 ];
 let messageIndex = 0;
 
