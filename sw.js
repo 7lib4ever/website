@@ -1,4 +1,4 @@
-const CACHE_NAME = 'valentine-pookie-v1';
+const CACHE_NAME = 'valentine-pookie-v2';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
