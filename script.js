@@ -5,10 +5,10 @@ const messages = [
     "Ne me fait pas ça :(",
     "Je t'acheterai une coupe spéculos à 13 euros! 🍫",
     "stp stp stp stp stp stp stp!",
+    "T'as pas envie de me connaître ???",
     "Je te laisserai même gagner à la bagarre !",
     "Si tu dis non, je deviens un 3atay...",
     "et le 7lib4ever dans tout ça...",
-    "T'as pas envie de me connaître ???",
     "Tu abandonnes Lou... 💔",
     "Ok, j'insite pas plus...",
     "Je rigoles, DIS OUI HMARA! ❤️"
